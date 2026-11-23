@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 336" role="img" aria-label="Terrillon Avocats">
+<g fill="#e41b13">
+<path fill-rule="evenodd" d="M104 4C84 74 58 160 30 250L170 214C128 150 108 78 104 4ZM97 66C90 124 78 182 64 232L148 210C122 168 106 120 97 66Z"/>
+<path d="M2 272C78 282 164 264 222 230C162 252 84 260 12 254Z"/>
+</g>
+<g fill="#ffffff" class="txt">
+<path d="M228 92h112v22h-45v86h-22v-86h-45z"/>
+<path d="M366 92h98v22h-76v22h70v20h-70v22h76v22h-98z"/>
+<path fill-rule="evenodd" d="M492 92h82a34 34 0 0 1 8 67l40 41h-29l-37-39h-42v39h-22zM514 114v26h58a13 13 0 0 0 0-26z"/>
+<path fill-rule="evenodd" d="M646 92h82a34 34 0 0 1 8 67l40 41h-29l-37-39h-42v39h-22zM668 114v26h58a13 13 0 0 0 0-26z"/>
+<path d="M820 92h22v108h-22z"/>
+<path d="M884 70h22v160h476v22h-498z"/>
+<path d="M952 92h22v86h72v22h-94z"/>
+<path fill-rule="evenodd" d="M1082 92h86a20 20 0 0 1 20 20v68a20 20 0 0 1-20 20h-86a20 20 0 0 1-20-20v-68a20 20 0 0 1 20-20zM1084 114v64h82v-64z"/>
+<path d="M1214 92h24l100 76v-76h22v108h-22l-102-78v78h-22z"/>
+<text x="890" y="326" textLength="470" lengthAdjust="spacing" font-family="Lato,Arial,sans-serif" font-size="44" font-weight="700">AVOCATS</text>
+</g>
+</svg>
